@@ -1,0 +1,58 @@
+ul.menu{
+    text-align: right;
+    background-color: rgba(255,255,255,0.5);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 30px;
+}
+
+
+ul.menu li a{
+    text-decoration: none;
+    color: black;
+
+}
+
+ul.menu li{
+    list-style: none;
+    display: inline;
+}
+
+ul.redes{
+    text-align: right;
+}
+
+ul.redes i{
+    font-size: 25px;
+    margin-left: 5px;
+
+}
+ul.redes i:hover{
+    color:orange;
+}
+h1{
+    font-size:72px ;
+    font-family: Raleway ;
+}
+
+h2,p {
+    margin-left: 40px;
+    color:green;
+
+}
+.fa-twitter:hover{
+    color:lightblue;
+}
+
+.fa-facebook-square:hover{
+    color: blue;
+}
+
+.fa-spotify:hover{
+    color:green;
+}
+
+h4{
+    font-size: Open sans;
+    color: green;
+}
